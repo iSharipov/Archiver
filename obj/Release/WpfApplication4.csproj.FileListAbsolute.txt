@@ -1,0 +1,13 @@
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe.config
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.exe
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Release\WpfApplication4.pdb
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\MainWindow.baml
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\MainWindow.g.cs
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\App.g.cs
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4_MarkupCompile.cache
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.g.resources
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.Properties.Resources.resources
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.csproj.GenerateResource.Cache
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.exe
+C:\Users\Илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Release\WpfApplication4.pdb

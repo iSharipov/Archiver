@@ -1,0 +1,14 @@
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe.config
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.exe
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Debug\WpfApplication4.pdb
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csprojResolveAssemblyReference.cache
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.baml
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\MainWindow.g.cs
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\App.g.cs
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4_MarkupCompile.cache
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.g.resources
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.Properties.Resources.resources
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.csproj.GenerateResource.Cache
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.exe
+c:\users\илья\documents\visual studio 2012\Projects\WpfApplication4\WpfApplication4\obj\Debug\WpfApplication4.pdb
+C:\Users\Илья\Documents\Visual Studio 2012\Projects\WpfApplication4\WpfApplication4\bin\Debug\ICSharpCode.SharpZipLib.dll
